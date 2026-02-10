@@ -7,3 +7,5 @@ class Inventory:
         pass
     def add_stock(stock):
         pass
+
+    #hamburgare med majs
